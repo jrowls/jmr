@@ -6,15 +6,27 @@
 
 
 .container-row {
-	height:800px;
+	/* height:1000px; */
 }
 .col-1-style {
-	background:#F2616E;
-	opacity:0.63;
+	/* background:#F2616E;
+	opacity:0.63; */
 }
 .col-1-style-2 {
 	background:#F0E4E6;
 	opacity:1.0;
+}
+.row-styles {
+	height:300px;
+	width:500px;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	font-size:22px;
+}
+.col-styles {
+	/* text-align:center; */
+
 }
 
 
